@@ -6,8 +6,6 @@ git clone https://github.com/ST-Programmer/BasicOpenGLRenderer/
 
 cd BasicOpenGLRenderer
 
-cd BasicOpenGLRenderer
-
 mkdir build
 
 cmake -B build -S .
